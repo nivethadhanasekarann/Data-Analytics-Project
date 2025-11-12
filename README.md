@@ -3,6 +3,10 @@ Over View:
 
 Power BI dashboard analyzing Ather’s electric vehicle sales and customer insights. The report highlights sales performance, customer segmentation, model preferences, color trends, and revenue growth to support data-driven business decisions.Tools Used: Power BI, Excel Domain: Data Analytics / Automotive Sales
 
+🎯 Objective:
+
+To identify major factors influencing EV sales performance and customer purchasing patterns, helping Ather optimize marketing strategies and sales decisions.
+
 Detailed View:
 
 Electric Vehicle Sales Performance and Customer Insights Dashboard:
@@ -46,9 +50,6 @@ Charging Station Availability Impact: Demonstrates influence of charging infrast
 Power BI – for dashboard creation & DAX measures
 
 Excel – for data preprocessing & cleaning
-
-🎯 Objective:
-To identify major factors influencing EV sales performance and customer purchasing patterns, helping Ather optimize marketing strategies and sales decisions.
 
 📈 Key Performance Metrics:
 
