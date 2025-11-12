@@ -1,5 +1,5 @@
 # Data-Analytics-Project
-Over View:
+🧾 Over View:
 
 Power BI dashboard analyzing Ather’s electric vehicle sales and customer insights. The report highlights sales performance, customer segmentation, model preferences, color trends, and revenue growth to support data-driven business decisions.Tools Used: Power BI, Excel Domain: Data Analytics / Automotive Sales
 
@@ -7,7 +7,7 @@ Power BI dashboard analyzing Ather’s electric vehicle sales and customer insig
 
 To identify major factors influencing EV sales performance and customer purchasing patterns, helping Ather optimize marketing strategies and sales decisions.
 
-Detailed View:
+🧾 Detailed View:
 
 Electric Vehicle Sales Performance and Customer Insights Dashboard:
 
